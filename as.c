@@ -11,7 +11,7 @@ int main() {
         if (n < b)
             printf("Число больше!\n");
         if (n == b)
-            printf("Бинго! Число действительно: %d\n", b);
+            printf("Бинго! Число : %d\n", b);
     }
     return 0;
 }
